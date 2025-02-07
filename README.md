@@ -1,0 +1,1 @@
+This repository demonstrates a common error encountered when using the `useState` hook in React Native to update nested object properties.  The issue stems from the incorrect application of the spread operator, which fails to trigger a re-render. The solution provides a correct implementation using functional updates to ensure proper state management and UI updates.
